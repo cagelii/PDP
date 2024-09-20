@@ -1,3 +1,4 @@
+A parallel solver to the Poisson equation in 2 dimensions using the conjugate gradient method-
 The program runs as instructed, the only input is an integer n. 
 Output is the norm of the q-vector at the last iteration. 
 The execution time of the program can be printed by uncommenting line 132.
